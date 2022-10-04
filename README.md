@@ -1,5 +1,13 @@
 # Spam Detection Model Using Natural Language Processing(NLP)
 
+## Required Modules:
+
+* nltk
+* re
+* pandas
+* sklearn
+* numpy
+
 ## Analysis of Accuracy:
 
 * Using _All features_ in creating model:
