@@ -21,14 +21,6 @@
   3. Accuracy = 0.969506726457399 :: Using Stemming and TF-IDF Model
   4. Accuracy = 0.972197309417040 :: Using Lemmatization and TF-IDF Model
 
-* For _max_features = 5000_ (top most frequent) in creating model:
-
-  1. Accuracy = 0.984753363228699 :: Using Stemming and Bag of Words Model
-  2. Accuracy = 0.982062780269058 :: Using Lemmatization and Bag of Words Model
-
-  3. Accuracy = 0.973991031390134 :: Using Stemming and TF-IDF Model
-  4. Accuracy = 0.976681614349775 :: Using Lemmatization and TF-IDF Model
-
 * For _max_features = 2500_ (top most frequent) in creating model:
 
   1. Accuracy = __0.985650224215246__ :: Using Stemming and Bag of Words Model 
