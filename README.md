@@ -18,17 +18,10 @@
   1. Accuracy = 0.979372197309417 :: Using Stemming and Bag of Words Model
   2. Accuracy = 0.976681614349775 :: Using Lemmatization and Bag of Words Model
 
-  3. Accuracy = 0.969506726457399 :: Using Stemming and TF-IDF Model
-  4. Accuracy = 0.972197309417040 :: Using Lemmatization and TF-IDF Model
-
 * For _max_features = 2500_ (top most frequent) in creating model:
 
   1. Accuracy = __0.985650224215246__ :: Using Stemming and Bag of Words Model 
   2. Accuracy = 0.982959641255605 :: Using Lemmatization and Bag of Words Model 
-
-  3. Accuracy = 0.979372197309417 :: Using Stemming and TF-IDF Model
-  4. Accuracy = 0.979372197309417 :: Using Lemmatization and TF-IDF Model
-
 
 ## Summary:
 
