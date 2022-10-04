@@ -2,8 +2,8 @@
 
 ## Required Modules:
 
-* nltk
-* re
+* nltk (Natural Language Toolkit )
+* re (RegeX Module)
 * pandas
 * sklearn
 * numpy
