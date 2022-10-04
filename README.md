@@ -1,5 +1,8 @@
 # Spam Detection Model Using Natural Language Processing(NLP)
 
+## Dataset:
+* Dataset is taken from UCI Machine Learning Repository Website
+
 ## Required Modules:
 
 * nltk (Natural Language Toolkit )
